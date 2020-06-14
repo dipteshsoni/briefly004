@@ -1,0 +1,38 @@
+#navbefore{
+    height: 6rem;
+    width: 100%;
+  
+}
+/* .bdr{
+    border: 5px solid red;
+} */
+
+.logosmall{
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+}
+#tc{
+    /* display: none; */
+    border: 4px solid;
+    width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  background-color: lightblue;
+  margin-top: 20px;
+}
+
+.boxfooter{
+    border: 2px solid;
+    background-color: black;
+    height: 10rem;
+    width: 100%;
+}
+
+.hfont{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.bfont{
+    font-family: 'Lora', serif;
+}
